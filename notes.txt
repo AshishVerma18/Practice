@@ -1,6 +1,9 @@
 Font Awesome 
 Id- aashsish.640@gmail.com
 Pass- Ashish@123
+kit=>  <script src="https://kit.fontawesome.com/8fc4e64017.js" crossorigin="anonymous"></script>
 
 fontawesomecheatsheet.com // used for varous codes
+
+https://source.unsplash.com/ for vaious images link
  
